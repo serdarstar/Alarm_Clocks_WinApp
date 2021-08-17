@@ -1,0 +1,104 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\serdar.yildiz\\source\\repos\\Alarms_Clock_WindowsAppDriver\\WindowsAppDriver\\WindowsAppDriver.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\serdar.yildiz\\source\\repos\\Alarms_Clock_WindowsAppDriver\\WindowsAppDriver\\WindowsAppDriver.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\serdar.yildiz\\source\\repos\\Alarms_Clock_WindowsAppDriver\\WindowsAppDriver\\WindowsAppDriver.csproj",
+        "projectName": "WindowsAppDriver",
+        "projectPath": "C:\\Users\\serdar.yildiz\\source\\repos\\Alarms_Clock_WindowsAppDriver\\WindowsAppDriver\\WindowsAppDriver.csproj",
+        "packagesPath": "C:\\Users\\serdar.yildiz\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\serdar.yildiz\\source\\repos\\Alarms_Clock_WindowsAppDriver\\WindowsAppDriver\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\serdar.yildiz\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Appium.WebDriver": {
+              "target": "Package",
+              "version": "[4.1.1, )"
+            },
+            "FluentAssertions": {
+              "target": "Package",
+              "version": "[5.9.0, )"
+            },
+            "MSTest.TestAdapter": {
+              "target": "Package",
+              "version": "[2.2.5, )"
+            },
+            "MSTest.TestFramework": {
+              "target": "Package",
+              "version": "[2.2.5, )"
+            },
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.4.0, )"
+            },
+            "Selenium.Support": {
+              "target": "Package",
+              "version": "[3.141.0, )"
+            },
+            "Selenium.WebDriver": {
+              "target": "Package",
+              "version": "[3.141.0, )"
+            },
+            "SpecFlow.Plus.LivingDocPlugin": {
+              "target": "Package",
+              "version": "[3.9.42, )"
+            },
+            "SpecRun.SpecFlow": {
+              "target": "Package",
+              "version": "[*, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

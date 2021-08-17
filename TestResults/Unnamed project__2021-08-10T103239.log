@@ -1,0 +1,316 @@
+﻿2021-08-10T10:32:39.6448937+01:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2021-08-10T10:32:39.6450301+01:00;VSTestExecutionThread;Info;SpecFlow+Runner 3.9.7 in Framework netcore31 in x64 mode execution started
+2021-08-10T10:32:39.6450331+01:00;VSTestExecutionThread;Info;TestAdapter Location: C:\Users\serdar.yildiz\Source\Repos\SpecFlow.Plus.Examples\WindowsAppDriver\WindowsAppDriver\bin\Debug\netcoreapp3.1\TechTalk.SpecRun.VisualStudio.TestAdapter.dll
+2021-08-10T10:32:39.6466383+01:00;VSTestExecutionThread;Info;Current UserName: 'Serdar.Yildiz', MachineName: 'LPT5607'
+2021-08-10T10:32:39.6637027+01:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\Users\serdar.yildiz\Source\Repos\SpecFlow.Plus.Examples\WindowsAppDriver\WindowsAppDriver\bin\Debug\netcoreapp3.1\WindowsAppDriver.dll
+2021-08-10T10:32:39.6638453+01:00;VSTestExecutionThread;Info;Output folder configured to "C:\Users\serdar.yildiz\Source\Repos\SpecFlow.Plus.Examples\WindowsAppDriver\TestResults" (default)
+2021-08-10T10:32:39.6638963+01:00;VSTestExecutionThread;Info;Profile: 
+2021-08-10T10:32:39.6901795+01:00;VSTestExecutionThread;Info;Log file path: C:\Users\serdar.yildiz\Source\Repos\SpecFlow.Plus.Examples\WindowsAppDriver\TestResults\Unnamed project__2021-08-10T103239.log
+2021-08-10T10:32:39.6938832+01:00;Thread#12;Info;Checking activation
+2021-08-10T10:32:39.7595046+01:00;Thread#12;Info;Activated.
+2021-08-10T10:32:39.7597048+01:00;Thread#12;Info;Activation check completed
+2021-08-10T10:32:39.7597646+01:00;Thread#12;Info;Starting test run
+2021-08-10T10:32:39.8089010+01:00;Thread#12;Info;Discovering target: Default
+2021-08-10T10:32:39.8090138+01:00;Thread#12;Info;Discovering tests from assembly: C:\Users\serdar.yildiz\Source\Repos\SpecFlow.Plus.Examples\WindowsAppDriver\WindowsAppDriver\bin\Debug\netcoreapp3.1\WindowsAppDriver.dll
+2021-08-10T10:32:39.8639883+01:00;Thread#12;Info;Discovered tests from assembly: C:\Users\serdar.yildiz\Source\Repos\SpecFlow.Plus.Examples\WindowsAppDriver\WindowsAppDriver\bin\Debug\netcoreapp3.1\WindowsAppDriver.dll
+2021-08-10T10:32:39.8647897+01:00:Test Suite Dump
+2021-08-10T10:32:39.8657697+01:00:#0: Unnamed project/ - 
+2021-08-10T10:32:39.8657835+01:00:#1: Default - 
+2021-08-10T10:32:39.8657854+01:00:#2: WindowsAppDriver - 
+2021-08-10T10:32:39.8657866+01:00:#3: CalculatorFeature - 
+2021-08-10T10:32:39.8667598+01:00:#4: Basepage is Calculator - TestAssembly:WindowsAppDriver/Feature:CalculatorFeature/Scenario:Basepage+is+Calculator
+2021-08-10T10:32:39.8668085+01:00:End: Test Suite Dump
+2021-08-10T10:32:39.8767125+01:00:Thread#0:Scheduler: get next test for thread 0
+2021-08-10T10:32:39.8777956+01:00:Thread#:Scheduler: testitem #4 from normal test queue 
+2021-08-10T10:32:39.8778277+01:00:Thread#0:Scheduler: considering testitem #4 for thread 0
+2021-08-10T10:32:39.8798013+01:00:Thread#0:TestItem#4:testItemMatchesCurrentTestThread:UnSpecific
+2021-08-10T10:32:39.8798124+01:00:Thread#0:TestItem#4:runsOnOneOtherThreadSpecific:False
+2021-08-10T10:32:39.8798140+01:00:Thread#0:TestItem#4:runsOnOneOtherThreadUnspecific:False
+2021-08-10T10:32:39.8798162+01:00:Thread#0:Scheduler: using testitem #4 for thread 0
+2021-08-10T10:32:39.8802191+01:00:Thread#0:Scheduler: Test #4 is scheduled for thread
+2021-08-10T10:32:39.8808459+01:00:Thread#0:Scheduler: with testItemExecutionIndex 0
+2021-08-10T10:32:39.8824165+01:00:Thread #0: creating new test thread executor for WindowsAppDriver, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null (target: Default)
+2021-08-10T10:32:39.8840244+01:00:Thread #0: Creating test assembly executor for execution model OutProc
+2021-08-10T10:32:39.8841431+01:00:Thread #0: Creating test assembly executor for execution model OutProc
+2021-08-10T10:32:39.8856580+01:00:Thread #0: using TechTalk.SpecRun.Framework.Execution.OutOfProc.StreamJsonRPC.OutOfProcessTestAssemblyExecutorHost to execute tests
+2021-08-10T10:32:39.8866233+01:00:starting Out Of Process Executor
+2021-08-10T10:32:39.8878665+01:00:Assembly resolving Microsoft.VisualStudio.Validation, Version=15.3.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+2021-08-10T10:32:39.8896948+01:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' from .deps.json file
+2021-08-10T10:32:39.8897026+01:00:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Validation' from .deps.json
+2021-08-10T10:32:39.8904140+01:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' in folder 'C:\Users\serdar.yildiz\Source\Repos\SpecFlow.Plus.Examples\WindowsAppDriver\WindowsAppDriver\bin\Debug\netcoreapp3.1'
+2021-08-10T10:32:39.8906205+01:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' to 'C:\Users\serdar.yildiz\Source\Repos\SpecFlow.Plus.Examples\WindowsAppDriver\WindowsAppDriver\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Validation.dll'
+2021-08-10T10:32:39.8906870+01:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' to 'C:\Users\serdar.yildiz\Source\Repos\SpecFlow.Plus.Examples\WindowsAppDriver\WindowsAppDriver\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Validation.exe'
+2021-08-10T10:32:39.8907162+01:00:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Validation' in folder 'C:\Users\serdar.yildiz\Source\Repos\SpecFlow.Plus.Examples\WindowsAppDriver\WindowsAppDriver\bin\Debug\netcoreapp3.1'
+2021-08-10T10:32:39.8908285+01:00:TargetFramework: .NETCoreApp,Version=v3.1
+2021-08-10T10:32:39.8911686+01:00:Tfm: netcoreapp3.1
+2021-08-10T10:32:39.8911763+01:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' in folder 'C:\Users\serdar.yildiz\Source\Repos\SpecFlow.Plus.Examples\WindowsAppDriver\WindowsAppDriver\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1'
+2021-08-10T10:32:39.8911780+01:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' to 'C:\Users\serdar.yildiz\Source\Repos\SpecFlow.Plus.Examples\WindowsAppDriver\WindowsAppDriver\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1\Microsoft.VisualStudio.Validation.dll'
+2021-08-10T10:32:39.8912350+01:00:[AssemblyCache] Found file 'C:\Users\serdar.yildiz\Source\Repos\SpecFlow.Plus.Examples\WindowsAppDriver\WindowsAppDriver\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1\Microsoft.VisualStudio.Validation.dll' for assembly 'Microsoft.VisualStudio.Validation'
+2021-08-10T10:32:39.8916282+01:00:[AssemblyCache] Resolved 'Microsoft.VisualStudio.Validation' to C:\Users\serdar.yildiz\Source\Repos\SpecFlow.Plus.Examples\WindowsAppDriver\WindowsAppDriver\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1\Microsoft.VisualStudio.Validation.dll
+2021-08-10T10:32:39.8919935+01:00:Starting callback TCP Rpc server
+2021-08-10T10:32:39.9027053+01:00:Asynchronously starting background TCP Rpc Server on port 32770
+2021-08-10T10:32:39.9027403+01:00:Started callback TCP Rpc server on port 32770
+2021-08-10T10:32:39.9027425+01:00:Starting logger TCP Rpc server
+2021-08-10T10:32:39.9044146+01:00:Asynchronously starting background TCP Rpc Server on port 32771
+2021-08-10T10:32:39.9044282+01:00:Started logger TCP Rpc server on port 32771
+2021-08-10T10:32:39.9547008+01:00:Executing test executor at 'dotnet' 'exec "C:\Users\serdar.yildiz\Source\Repos\SpecFlow.Plus.Examples\WindowsAppDriver\WindowsAppDriver\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1\TechTalk.SpecRun.Framework.Executor.anycpu.netcoreapp3_1.dll" --remoteRunnerPid 8628 --uniqueId "2021-08-10T103239" --outputFolder "C:\Users\serdar.yildiz\Source\Repos\SpecFlow.Plus.Examples\WindowsAppDriver\TestResults" --callbackPort 32770 --loggerPort 32771' in 'C:\Users\serdar.yildiz\Source\Repos\SpecFlow.Plus.Examples\WindowsAppDriver\WindowsAppDriver\bin\Debug\netcoreapp3.1'
+2021-08-10T10:32:39.9608485+01:00:Executor with PID 4224 has been started successfully.
+2021-08-10T10:32:39.9632549+01:00:Out of Process Executor 4224 started
+2021-08-10T10:32:39.9632682+01:00:Waiting for endpoint
+2021-08-10T10:32:40.1761457+01:00:Assembly resolving Microsoft.VisualStudio.Threading, Version=15.3.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+2021-08-10T10:32:40.1761607+01:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' from .deps.json file
+2021-08-10T10:32:40.1761810+01:00:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Threading' from .deps.json
+2021-08-10T10:32:40.1761850+01:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' in folder 'C:\Users\serdar.yildiz\Source\Repos\SpecFlow.Plus.Examples\WindowsAppDriver\WindowsAppDriver\bin\Debug\netcoreapp3.1'
+2021-08-10T10:32:40.1761863+01:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' to 'C:\Users\serdar.yildiz\Source\Repos\SpecFlow.Plus.Examples\WindowsAppDriver\WindowsAppDriver\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Threading.dll'
+2021-08-10T10:32:40.1762141+01:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' to 'C:\Users\serdar.yildiz\Source\Repos\SpecFlow.Plus.Examples\WindowsAppDriver\WindowsAppDriver\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Threading.exe'
+2021-08-10T10:32:40.1762390+01:00:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Threading' in folder 'C:\Users\serdar.yildiz\Source\Repos\SpecFlow.Plus.Examples\WindowsAppDriver\WindowsAppDriver\bin\Debug\netcoreapp3.1'
+2021-08-10T10:32:40.1762425+01:00:TargetFramework: .NETCoreApp,Version=v3.1
+2021-08-10T10:32:40.1762580+01:00:Tfm: netcoreapp3.1
+2021-08-10T10:32:40.1762606+01:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' in folder 'C:\Users\serdar.yildiz\Source\Repos\SpecFlow.Plus.Examples\WindowsAppDriver\WindowsAppDriver\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1'
+2021-08-10T10:32:40.1762617+01:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' to 'C:\Users\serdar.yildiz\Source\Repos\SpecFlow.Plus.Examples\WindowsAppDriver\WindowsAppDriver\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1\Microsoft.VisualStudio.Threading.dll'
+2021-08-10T10:32:40.1763031+01:00:[AssemblyCache] Found file 'C:\Users\serdar.yildiz\Source\Repos\SpecFlow.Plus.Examples\WindowsAppDriver\WindowsAppDriver\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1\Microsoft.VisualStudio.Threading.dll' for assembly 'Microsoft.VisualStudio.Threading'
+2021-08-10T10:32:40.1767406+01:00:[AssemblyCache] Resolved 'Microsoft.VisualStudio.Threading' to C:\Users\serdar.yildiz\Source\Repos\SpecFlow.Plus.Examples\WindowsAppDriver\WindowsAppDriver\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1\Microsoft.VisualStudio.Threading.dll
+2021-08-10T10:32:40.3244662+01:00:Remote executor port received: 32772
+2021-08-10T10:32:40.3246807+01:00:Creating executor TCP client on port 32772
+2021-08-10T10:32:40.3248998+01:00:Created executor TCP client on port 32772
+2021-08-10T10:32:40.3249053+01:00:Connecting to remote executor TCP server
+2021-08-10T10:32:40.3255330+01:00:Connected remote executor TCP server
+2021-08-10T10:32:40.3256098+01:00:trying to connect to Out of Process Executor the 1 attempt
+2021-08-10T10:32:40.3256172+01:00:Connection to Out of Process Executor established in the 1 attempt
+2021-08-10T10:32:40.4173689+01:00:2021-08-10T10:32:40.4166721+01:00:OutOfProcessTestAssemblyExecutor: initialized for C:\Users\serdar.yildiz\Source\Repos\SpecFlow.Plus.Examples\WindowsAppDriver\WindowsAppDriver\bin\Debug\netcoreapp3.1\WindowsAppDriver.dll on test thread #0
+2021-08-10T10:32:40.4209085+01:00:Endpoint 4224 started
+2021-08-10T10:32:40.4323571+01:00:2021-08-10T10:32:40.4320487+01:00:OutOfProcessTestAssemblyExecutor: running tests...
+2021-08-10T10:32:40.4996317+01:00:2021-08-10T10:32:40.4992757+01:00:Assembly resolving TechTalk.SpecFlow, Version=3.9.0.0, Culture=neutral, PublicKeyToken=0778194805d6db41
+2021-08-10T10:32:40.5018725+01:00:2021-08-10T10:32:40.5015998+01:00:[AssemblyCache] Trying to resolve 'TechTalk.SpecFlow' from .deps.json file
+2021-08-10T10:32:40.5037424+01:00:2021-08-10T10:32:40.5034953+01:00:[AssemblyCache] Resolved 'TechTalk.SpecFlow' to 'C:\Users\serdar.yildiz\.nuget\packages\specflow\3.9.8\lib\netstandard2.0\TechTalk.SpecFlow.dll'
+2021-08-10T10:32:40.5718302+01:00:2021-08-10T10:32:40.5714587+01:00:Thread#0:T:-> Loading plugin C:\Users\serdar.yildiz\Source\Repos\SpecFlow.Plus.Examples\WindowsAppDriver\WindowsAppDriver\bin\Debug\netcoreapp3.1\WindowsAppDriver.dll
+2021-08-10T10:32:40.5728437+01:00:2021-08-10T10:32:40.5725919+01:00:Assembly resolving Microsoft.Extensions.DependencyModel, Version=1.0.1.0, Culture=neutral, PublicKeyToken=adb9793829ddae60
+2021-08-10T10:32:40.5733218+01:00:2021-08-10T10:32:40.5730958+01:00:[AssemblyCache] Trying to resolve 'Microsoft.Extensions.DependencyModel' from .deps.json file
+2021-08-10T10:32:40.5741103+01:00:2021-08-10T10:32:40.5737223+01:00:[AssemblyCache] Resolved 'Microsoft.Extensions.DependencyModel' to 'C:\Users\serdar.yildiz\.nuget\packages\microsoft.extensions.dependencymodel\1.0.3\lib\netstandard1.6\Microsoft.Extensions.DependencyModel.dll'
+2021-08-10T10:32:40.6021801+01:00:2021-08-10T10:32:40.6017464+01:00:Assembly resolving Microsoft.DotNet.PlatformAbstractions, Version=1.0.1.0, Culture=neutral, PublicKeyToken=adb9793829ddae60
+2021-08-10T10:32:40.6026937+01:00:2021-08-10T10:32:40.6024656+01:00:[AssemblyCache] Trying to resolve 'Microsoft.DotNet.PlatformAbstractions' from .deps.json file
+2021-08-10T10:32:40.6033593+01:00:2021-08-10T10:32:40.6030789+01:00:[AssemblyCache] Resolved 'Microsoft.DotNet.PlatformAbstractions' to 'C:\Users\serdar.yildiz\.nuget\packages\microsoft.dotnet.platformabstractions\1.0.3\lib\netstandard1.3\Microsoft.DotNet.PlatformAbstractions.dll'
+2021-08-10T10:32:40.6082806+01:00:2021-08-10T10:32:40.6079669+01:00:Thread#0:T:-> Missing [assembly:RuntimePlugin] attribute in WindowsAppDriver, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null. Please check https://go.specflow.org/doc-plugins for details.
+2021-08-10T10:32:40.6086919+01:00:2021-08-10T10:32:40.6084898+01:00:Thread#0:T:-> Loading plugin C:\Users\serdar.yildiz\Source\Repos\SpecFlow.Plus.Examples\WindowsAppDriver\WindowsAppDriver\bin\Debug\netcoreapp3.1\SpecRun.Runtime.SpecFlowPlugin.dll
+2021-08-10T10:32:40.6123174+01:00:2021-08-10T10:32:40.6120676+01:00:Thread#0:T:-> Using default config
+2021-08-10T10:32:40.6189076+01:00:2021-08-10T10:32:40.6185773+01:00:Assembly resolving Cucumber.Messages, Version=6.0.1.0, Culture=neutral, PublicKeyToken=b10c5988214f940c
+2021-08-10T10:32:40.6193286+01:00:2021-08-10T10:32:40.6191371+01:00:[AssemblyCache] Trying to resolve 'Cucumber.Messages' from .deps.json file
+2021-08-10T10:32:40.6198909+01:00:2021-08-10T10:32:40.6196322+01:00:[AssemblyCache] Resolved 'Cucumber.Messages' to 'C:\Users\serdar.yildiz\.nuget\packages\cucumber.messages\6.0.1\lib\netstandard2.0\Cucumber.Messages.dll'
+2021-08-10T10:32:40.6208802+01:00:2021-08-10T10:32:40.6206451+01:00:Assembly resolving Google.Protobuf, Version=3.7.0.0, Culture=neutral, PublicKeyToken=a7d26565bac4d604
+2021-08-10T10:32:40.6212495+01:00:2021-08-10T10:32:40.6210728+01:00:[AssemblyCache] Trying to resolve 'Google.Protobuf' from .deps.json file
+2021-08-10T10:32:40.6217118+01:00:2021-08-10T10:32:40.6214607+01:00:[AssemblyCache] Resolved 'Google.Protobuf' to 'C:\Users\serdar.yildiz\.nuget\packages\google.protobuf\3.7.0\lib\netstandard1.0\Google.Protobuf.dll'
+2021-08-10T10:32:40.6253516+01:00:2021-08-10T10:32:40.6250527+01:00:Assembly resolving Microsoft.VisualStudio.TestPlatform.ObjectModel, Version=15.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+2021-08-10T10:32:40.6256434+01:00:2021-08-10T10:32:40.6255089+01:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.TestPlatform.ObjectModel' from .deps.json file
+2021-08-10T10:32:40.6260096+01:00:2021-08-10T10:32:40.6259038+01:00:[AssemblyCache] Resolved 'Microsoft.VisualStudio.TestPlatform.ObjectModel' to 'C:\Users\serdar.yildiz\.nuget\packages\microsoft.testplatform.objectmodel\16.4.0\lib\netstandard2.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll'
+2021-08-10T10:32:40.6477843+01:00:2021-08-10T10:32:40.6473937+01:00:Assembly resolving SpecFlow.Internal.Json, Version=1.0.0.0, Culture=neutral, PublicKeyToken=0778194805d6db41
+2021-08-10T10:32:40.6482614+01:00:2021-08-10T10:32:40.6480229+01:00:[AssemblyCache] Trying to resolve 'SpecFlow.Internal.Json' from .deps.json file
+2021-08-10T10:32:40.6487744+01:00:2021-08-10T10:32:40.6485220+01:00:[AssemblyCache] Resolved 'SpecFlow.Internal.Json' to 'C:\Users\serdar.yildiz\.nuget\packages\specflow.internal.json\1.0.8\lib\netstandard2.0\SpecFlow.Internal.Json.dll'
+2021-08-10T10:32:40.6972512+01:00:2021-08-10T10:32:40.6969826+01:00:Assembly resolving Microsoft.Extensions.Configuration.Abstractions, Version=3.1.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60
+2021-08-10T10:32:40.6975922+01:00:2021-08-10T10:32:40.6974466+01:00:[AssemblyCache] Trying to resolve 'Microsoft.Extensions.Configuration.Abstractions' from .deps.json file
+2021-08-10T10:32:40.6980958+01:00:2021-08-10T10:32:40.6978807+01:00:[AssemblyCache] Resolved 'Microsoft.Extensions.Configuration.Abstractions' to 'C:\Users\serdar.yildiz\.nuget\packages\microsoft.extensions.configuration.abstractions\3.1.0\lib\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll'
+2021-08-10T10:32:40.6991339+01:00:2021-08-10T10:32:40.6989779+01:00:Assembly resolving Microsoft.Extensions.Configuration, Version=3.1.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60
+2021-08-10T10:32:40.6994832+01:00:2021-08-10T10:32:40.6993008+01:00:[AssemblyCache] Trying to resolve 'Microsoft.Extensions.Configuration' from .deps.json file
+2021-08-10T10:32:40.6999085+01:00:2021-08-10T10:32:40.6996976+01:00:[AssemblyCache] Resolved 'Microsoft.Extensions.Configuration' to 'C:\Users\serdar.yildiz\.nuget\packages\microsoft.extensions.configuration\3.1.0\lib\netcoreapp3.1\Microsoft.Extensions.Configuration.dll'
+2021-08-10T10:32:40.7009867+01:00:2021-08-10T10:32:40.7005427+01:00:Assembly resolving Microsoft.Extensions.Configuration.Json, Version=3.1.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60
+2021-08-10T10:32:40.7012408+01:00:2021-08-10T10:32:40.7011372+01:00:[AssemblyCache] Trying to resolve 'Microsoft.Extensions.Configuration.Json' from .deps.json file
+2021-08-10T10:32:40.7016366+01:00:2021-08-10T10:32:40.7014865+01:00:[AssemblyCache] Resolved 'Microsoft.Extensions.Configuration.Json' to 'C:\Users\serdar.yildiz\.nuget\packages\microsoft.extensions.configuration.json\3.1.0\lib\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll'
+2021-08-10T10:32:40.7027619+01:00:2021-08-10T10:32:40.7025898+01:00:Assembly resolving Microsoft.Extensions.FileProviders.Abstractions, Version=3.1.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60
+2021-08-10T10:32:40.7029611+01:00:2021-08-10T10:32:40.7028689+01:00:[AssemblyCache] Trying to resolve 'Microsoft.Extensions.FileProviders.Abstractions' from .deps.json file
+2021-08-10T10:32:40.7032444+01:00:2021-08-10T10:32:40.7031514+01:00:[AssemblyCache] Resolved 'Microsoft.Extensions.FileProviders.Abstractions' to 'C:\Users\serdar.yildiz\.nuget\packages\microsoft.extensions.fileproviders.abstractions\3.1.0\lib\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll'
+2021-08-10T10:32:40.7039392+01:00:2021-08-10T10:32:40.7038397+01:00:Assembly resolving Microsoft.Extensions.Configuration.FileExtensions, Version=3.1.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60
+2021-08-10T10:32:40.7041186+01:00:2021-08-10T10:32:40.7040327+01:00:[AssemblyCache] Trying to resolve 'Microsoft.Extensions.Configuration.FileExtensions' from .deps.json file
+2021-08-10T10:32:40.7044211+01:00:2021-08-10T10:32:40.7043211+01:00:[AssemblyCache] Resolved 'Microsoft.Extensions.Configuration.FileExtensions' to 'C:\Users\serdar.yildiz\.nuget\packages\microsoft.extensions.configuration.fileextensions\3.1.0\lib\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll'
+2021-08-10T10:32:40.7056636+01:00:2021-08-10T10:32:40.7055383+01:00:Assembly resolving Microsoft.Extensions.FileProviders.Physical, Version=3.1.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60
+2021-08-10T10:32:40.7058473+01:00:2021-08-10T10:32:40.7057626+01:00:[AssemblyCache] Trying to resolve 'Microsoft.Extensions.FileProviders.Physical' from .deps.json file
+2021-08-10T10:32:40.7061427+01:00:2021-08-10T10:32:40.7060418+01:00:[AssemblyCache] Resolved 'Microsoft.Extensions.FileProviders.Physical' to 'C:\Users\serdar.yildiz\.nuget\packages\microsoft.extensions.fileproviders.physical\3.1.0\lib\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll'
+2021-08-10T10:32:40.7068371+01:00:2021-08-10T10:32:40.7067322+01:00:Assembly resolving Microsoft.Extensions.Primitives, Version=3.1.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60
+2021-08-10T10:32:40.7070229+01:00:2021-08-10T10:32:40.7069302+01:00:[AssemblyCache] Trying to resolve 'Microsoft.Extensions.Primitives' from .deps.json file
+2021-08-10T10:32:40.7072964+01:00:2021-08-10T10:32:40.7071919+01:00:[AssemblyCache] Resolved 'Microsoft.Extensions.Primitives' to 'C:\Users\serdar.yildiz\.nuget\packages\microsoft.extensions.primitives\3.1.0\lib\netcoreapp3.1\Microsoft.Extensions.Primitives.dll'
+2021-08-10T10:32:40.7348962+01:00:Thread#0: Test #4/0 is started on thread #0
+2021-08-10T10:32:40.7453752+01:00:2021-08-10T10:32:40.7450336+01:00:Thread#0:B:Then Calculator title is Standard
+2021-08-10T10:32:40.7529094+01:00:2021-08-10T10:32:40.7526286+01:00:Assembly resolving Appium.Net, Version=4.1.1.0, Culture=neutral, PublicKeyToken=null
+2021-08-10T10:32:40.7531891+01:00:2021-08-10T10:32:40.7530444+01:00:[AssemblyCache] Trying to resolve 'Appium.Net' from .deps.json file
+2021-08-10T10:32:40.7535672+01:00:2021-08-10T10:32:40.7534263+01:00:[AssemblyCache] Resolved 'Appium.Net' to 'C:\Users\serdar.yildiz\.nuget\packages\appium.webdriver\4.1.1\lib\netstandard2.0\Appium.Net.dll'
+2021-08-10T10:32:40.7543826+01:00:2021-08-10T10:32:40.7542497+01:00:Assembly resolving WebDriver, Version=3.141.0.0, Culture=neutral, PublicKeyToken=null
+2021-08-10T10:32:40.7546174+01:00:2021-08-10T10:32:40.7544810+01:00:[AssemblyCache] Trying to resolve 'WebDriver' from .deps.json file
+2021-08-10T10:32:40.7549345+01:00:2021-08-10T10:32:40.7547953+01:00:[AssemblyCache] Resolved 'WebDriver' to 'C:\Users\serdar.yildiz\.nuget\packages\selenium.webdriver\3.141.0\lib\netstandard2.0\WebDriver.dll'
+2021-08-10T10:32:40.7583352+01:00:2021-08-10T10:32:40.7579830+01:00:Assembly resolving FluentAssertions, Version=5.9.0.0, Culture=neutral, PublicKeyToken=33f2691a05b67b6a
+2021-08-10T10:32:40.7587894+01:00:2021-08-10T10:32:40.7585589+01:00:[AssemblyCache] Trying to resolve 'FluentAssertions' from .deps.json file
+2021-08-10T10:32:40.7592999+01:00:2021-08-10T10:32:40.7590743+01:00:[AssemblyCache] Resolved 'FluentAssertions' to 'C:\Users\serdar.yildiz\.nuget\packages\fluentassertions\5.9.0\lib\netcoreapp2.0\FluentAssertions.dll'
+2021-08-10T10:32:40.7608719+01:00:2021-08-10T10:32:40.7605423+01:00:Assembly resolving WebDriver, Version=3.141.0.0, Culture=neutral, PublicKeyToken=null
+2021-08-10T10:32:41.7669786+01:00:2021-08-10T10:32:41.7652936+01:00:Assembly resolving nspec, Culture=neutral, PublicKeyToken=null
+2021-08-10T10:32:41.7693354+01:00:2021-08-10T10:32:41.7682333+01:00:[AssemblyCache] Trying to resolve 'nspec' from .deps.json file
+2021-08-10T10:32:41.7711559+01:00:2021-08-10T10:32:41.7702046+01:00:[AssemblyCache] Could not resolve 'nspec' from .deps.json
+2021-08-10T10:32:41.7841166+01:00:2021-08-10T10:32:41.7829295+01:00:[AssemblyCache] Trying to resolve 'nspec' in folder 'C:\Users\serdar.yildiz\Source\Repos\SpecFlow.Plus.Examples\WindowsAppDriver\WindowsAppDriver\bin\Debug\netcoreapp3.1'
+2021-08-10T10:32:41.7871560+01:00:2021-08-10T10:32:41.7858979+01:00:[AssemblyCache] Trying to resolve 'nspec' to 'C:\Users\serdar.yildiz\Source\Repos\SpecFlow.Plus.Examples\WindowsAppDriver\WindowsAppDriver\bin\Debug\netcoreapp3.1\nspec.dll'
+2021-08-10T10:32:41.7896572+01:00:2021-08-10T10:32:41.7881524+01:00:[AssemblyCache] Trying to resolve 'nspec' to 'C:\Users\serdar.yildiz\Source\Repos\SpecFlow.Plus.Examples\WindowsAppDriver\WindowsAppDriver\bin\Debug\netcoreapp3.1\nspec.exe'
+2021-08-10T10:32:41.7922095+01:00:2021-08-10T10:32:41.7908345+01:00:[AssemblyCache] Could not resolve 'nspec' in folder 'C:\Users\serdar.yildiz\Source\Repos\SpecFlow.Plus.Examples\WindowsAppDriver\WindowsAppDriver\bin\Debug\netcoreapp3.1'
+2021-08-10T10:32:41.7945363+01:00:2021-08-10T10:32:41.7934702+01:00:TargetFramework: .NETCoreApp,Version=v3.1
+2021-08-10T10:32:41.7963804+01:00:2021-08-10T10:32:41.7956705+01:00:Tfm: netcoreapp3.1
+2021-08-10T10:32:41.7975519+01:00:2021-08-10T10:32:41.7969044+01:00:[AssemblyCache] Trying to resolve 'nspec' in folder 'C:\Users\serdar.yildiz\Source\Repos\SpecFlow.Plus.Examples\WindowsAppDriver\WindowsAppDriver\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1'
+2021-08-10T10:32:41.7988105+01:00:2021-08-10T10:32:41.7982298+01:00:[AssemblyCache] Trying to resolve 'nspec' to 'C:\Users\serdar.yildiz\Source\Repos\SpecFlow.Plus.Examples\WindowsAppDriver\WindowsAppDriver\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1\nspec.dll'
+2021-08-10T10:32:41.8000076+01:00:2021-08-10T10:32:41.7994445+01:00:[AssemblyCache] Trying to resolve 'nspec' to 'C:\Users\serdar.yildiz\Source\Repos\SpecFlow.Plus.Examples\WindowsAppDriver\WindowsAppDriver\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1\nspec.exe'
+2021-08-10T10:32:41.8011121+01:00:2021-08-10T10:32:41.8005101+01:00:[AssemblyCache] Could not resolve 'nspec' in folder 'C:\Users\serdar.yildiz\Source\Repos\SpecFlow.Plus.Examples\WindowsAppDriver\WindowsAppDriver\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1'
+2021-08-10T10:32:41.8121551+01:00:2021-08-10T10:32:41.8110916+01:00:[AssemblyCache] Trying to resolve 'nspec' in folder 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.16'
+2021-08-10T10:32:41.8136534+01:00:2021-08-10T10:32:41.8128136+01:00:[AssemblyCache] Trying to resolve 'nspec' to 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.16\nspec.dll'
+2021-08-10T10:32:41.8149517+01:00:2021-08-10T10:32:41.8141973+01:00:[AssemblyCache] Trying to resolve 'nspec' to 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.16\nspec.exe'
+2021-08-10T10:32:41.8164758+01:00:2021-08-10T10:32:41.8155472+01:00:[AssemblyCache] Could not resolve 'nspec' in folder 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.16'
+2021-08-10T10:32:41.8183747+01:00:2021-08-10T10:32:41.8175304+01:00:[AssemblyCache] Trying to resolve 'nspec' in folder 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.16'
+2021-08-10T10:32:41.8205556+01:00:2021-08-10T10:32:41.8199054+01:00:[AssemblyCache] Trying to resolve 'nspec' to 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.16\nspec.dll'
+2021-08-10T10:32:41.8218013+01:00:2021-08-10T10:32:41.8211600+01:00:[AssemblyCache] Trying to resolve 'nspec' to 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.16\nspec.exe'
+2021-08-10T10:32:41.8229803+01:00:2021-08-10T10:32:41.8222954+01:00:[AssemblyCache] Could not resolve 'nspec' in folder 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.16'
+2021-08-10T10:32:41.8242652+01:00:2021-08-10T10:32:41.8237284+01:00:[AssemblyCache] Trying to resolve 'nspec' in folder 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.16'
+2021-08-10T10:32:41.8247098+01:00:2021-08-10T10:32:41.8244691+01:00:[AssemblyCache] Trying to resolve 'nspec' to 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.16\nspec.dll'
+2021-08-10T10:32:41.8252298+01:00:2021-08-10T10:32:41.8249938+01:00:[AssemblyCache] Trying to resolve 'nspec' to 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.16\nspec.exe'
+2021-08-10T10:32:41.8256907+01:00:2021-08-10T10:32:41.8254708+01:00:[AssemblyCache] Could not resolve 'nspec' in folder 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.16'
+2021-08-10T10:32:41.8483179+01:00:2021-08-10T10:32:41.8479268+01:00:Assembly resolving nspec, Culture=neutral, PublicKeyToken=null
+2021-08-10T10:32:41.8696477+01:00:2021-08-10T10:32:41.8691409+01:00:Assembly resolving nspec, Culture=neutral, PublicKeyToken=null
+2021-08-10T10:32:41.8901792+01:00:2021-08-10T10:32:41.8897581+01:00:Assembly resolving xunit.assert, Culture=neutral, PublicKeyToken=null
+2021-08-10T10:32:41.8907468+01:00:2021-08-10T10:32:41.8904722+01:00:[AssemblyCache] Trying to resolve 'xunit.assert' from .deps.json file
+2021-08-10T10:32:41.8911785+01:00:2021-08-10T10:32:41.8909672+01:00:[AssemblyCache] Could not resolve 'xunit.assert' from .deps.json
+2021-08-10T10:32:41.8915753+01:00:2021-08-10T10:32:41.8913587+01:00:[AssemblyCache] Trying to resolve 'xunit.assert' in folder 'C:\Users\serdar.yildiz\Source\Repos\SpecFlow.Plus.Examples\WindowsAppDriver\WindowsAppDriver\bin\Debug\netcoreapp3.1'
+2021-08-10T10:32:41.8919969+01:00:2021-08-10T10:32:41.8917887+01:00:[AssemblyCache] Trying to resolve 'xunit.assert' to 'C:\Users\serdar.yildiz\Source\Repos\SpecFlow.Plus.Examples\WindowsAppDriver\WindowsAppDriver\bin\Debug\netcoreapp3.1\xunit.assert.dll'
+2021-08-10T10:32:41.8925877+01:00:2021-08-10T10:32:41.8923447+01:00:[AssemblyCache] Trying to resolve 'xunit.assert' to 'C:\Users\serdar.yildiz\Source\Repos\SpecFlow.Plus.Examples\WindowsAppDriver\WindowsAppDriver\bin\Debug\netcoreapp3.1\xunit.assert.exe'
+2021-08-10T10:32:41.8930391+01:00:2021-08-10T10:32:41.8928418+01:00:[AssemblyCache] Could not resolve 'xunit.assert' in folder 'C:\Users\serdar.yildiz\Source\Repos\SpecFlow.Plus.Examples\WindowsAppDriver\WindowsAppDriver\bin\Debug\netcoreapp3.1'
+2021-08-10T10:32:41.8934051+01:00:2021-08-10T10:32:41.8932249+01:00:TargetFramework: .NETCoreApp,Version=v3.1
+2021-08-10T10:32:41.8937929+01:00:2021-08-10T10:32:41.8935938+01:00:Tfm: netcoreapp3.1
+2021-08-10T10:32:41.8943352+01:00:2021-08-10T10:32:41.8939644+01:00:[AssemblyCache] Trying to resolve 'xunit.assert' in folder 'C:\Users\serdar.yildiz\Source\Repos\SpecFlow.Plus.Examples\WindowsAppDriver\WindowsAppDriver\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1'
+2021-08-10T10:32:41.8948090+01:00:2021-08-10T10:32:41.8945556+01:00:[AssemblyCache] Trying to resolve 'xunit.assert' to 'C:\Users\serdar.yildiz\Source\Repos\SpecFlow.Plus.Examples\WindowsAppDriver\WindowsAppDriver\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1\xunit.assert.dll'
+2021-08-10T10:32:41.8953951+01:00:2021-08-10T10:32:41.8951441+01:00:[AssemblyCache] Trying to resolve 'xunit.assert' to 'C:\Users\serdar.yildiz\Source\Repos\SpecFlow.Plus.Examples\WindowsAppDriver\WindowsAppDriver\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1\xunit.assert.exe'
+2021-08-10T10:32:41.8962910+01:00:2021-08-10T10:32:41.8959073+01:00:[AssemblyCache] Could not resolve 'xunit.assert' in folder 'C:\Users\serdar.yildiz\Source\Repos\SpecFlow.Plus.Examples\WindowsAppDriver\WindowsAppDriver\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1'
+2021-08-10T10:32:41.8977410+01:00:2021-08-10T10:32:41.8973846+01:00:[AssemblyCache] Trying to resolve 'xunit.assert' in folder 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.16'
+2021-08-10T10:32:41.8983115+01:00:2021-08-10T10:32:41.8980294+01:00:[AssemblyCache] Trying to resolve 'xunit.assert' to 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.16\xunit.assert.dll'
+2021-08-10T10:32:41.8989142+01:00:2021-08-10T10:32:41.8986843+01:00:[AssemblyCache] Trying to resolve 'xunit.assert' to 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.16\xunit.assert.exe'
+2021-08-10T10:32:41.8993706+01:00:2021-08-10T10:32:41.8991720+01:00:[AssemblyCache] Could not resolve 'xunit.assert' in folder 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.16'
+2021-08-10T10:32:41.9103856+01:00:2021-08-10T10:32:41.8998012+01:00:[AssemblyCache] Trying to resolve 'xunit.assert' in folder 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.16'
+2021-08-10T10:32:41.9110767+01:00:2021-08-10T10:32:41.9107564+01:00:[AssemblyCache] Trying to resolve 'xunit.assert' to 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.16\xunit.assert.dll'
+2021-08-10T10:32:41.9117485+01:00:2021-08-10T10:32:41.9114193+01:00:[AssemblyCache] Trying to resolve 'xunit.assert' to 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.16\xunit.assert.exe'
+2021-08-10T10:32:41.9124317+01:00:2021-08-10T10:32:41.9121330+01:00:[AssemblyCache] Could not resolve 'xunit.assert' in folder 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.16'
+2021-08-10T10:32:41.9132907+01:00:2021-08-10T10:32:41.9129992+01:00:[AssemblyCache] Trying to resolve 'xunit.assert' in folder 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.16'
+2021-08-10T10:32:41.9137436+01:00:2021-08-10T10:32:41.9135430+01:00:[AssemblyCache] Trying to resolve 'xunit.assert' to 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.16\xunit.assert.dll'
+2021-08-10T10:32:41.9142150+01:00:2021-08-10T10:32:41.9140113+01:00:[AssemblyCache] Trying to resolve 'xunit.assert' to 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.16\xunit.assert.exe'
+2021-08-10T10:32:41.9146981+01:00:2021-08-10T10:32:41.9144794+01:00:[AssemblyCache] Could not resolve 'xunit.assert' in folder 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.16'
+2021-08-10T10:32:41.9449687+01:00:2021-08-10T10:32:41.9445563+01:00:Thread#0:T:error: Expected _calculator.GetTitle() to be 
+2021-08-10T10:32:41.9454676+01:00:2021-08-10T10:32:41.9452327+01:00:Thread#0:T:"Standard" with a length of 8, but 
+2021-08-10T10:32:41.9459542+01:00:2021-08-10T10:32:41.9456725+01:00:Thread#0:T:"Scientific" has a length of 10, differs near "cie" (index 1). (1.2s)
+2021-08-10T10:32:41.9618408+01:00:Thread#0:TestItem#4:Scheduler: reschedule tests for testitem #4
+2021-08-10T10:32:41.9649274+01:00:Thread#0:Scheduler: get next test for thread 0
+2021-08-10T10:32:41.9650274+01:00:Thread#:Scheduler: dequeuing a rescheduled testitem: #4
+2021-08-10T10:32:41.9650365+01:00:Thread#0:Scheduler: considering testitem #4 for thread 0
+2021-08-10T10:32:41.9651503+01:00:Thread#0:TestItem#4:testItemMatchesCurrentTestThread:UnSpecific
+2021-08-10T10:32:41.9651602+01:00:Thread#0:TestItem#4:runsOnOneOtherThreadSpecific:False
+2021-08-10T10:32:41.9651632+01:00:Thread#0:TestItem#4:runsOnOneOtherThreadUnspecific:False
+2021-08-10T10:32:41.9651666+01:00:Thread#0:Scheduler: using testitem #4 for thread 0
+2021-08-10T10:32:41.9652074+01:00:Thread#0:Scheduler: Test #4 is scheduled for thread
+2021-08-10T10:32:41.9653086+01:00:Thread#0:Scheduler: with testItemExecutionIndex 1
+2021-08-10T10:32:42.0048303+01:00:2021-08-10T10:32:42.0024867+01:00:Assembly resolving System.Net.Requests.resources, Version=4.1.2.0, Culture=en-US, PublicKeyToken=b03f5f7f11d50a3a
+2021-08-10T10:32:42.0074576+01:00:2021-08-10T10:32:42.0066924+01:00:[AssemblyCache] Trying to resolve 'System.Net.Requests.resources' from .deps.json file
+2021-08-10T10:32:42.0083935+01:00:2021-08-10T10:32:42.0078967+01:00:[AssemblyCache] Could not resolve 'System.Net.Requests.resources' from .deps.json
+2021-08-10T10:32:42.0092316+01:00:2021-08-10T10:32:42.0087607+01:00:[AssemblyCache] Trying to resolve 'System.Net.Requests.resources' in folder 'C:\Users\serdar.yildiz\Source\Repos\SpecFlow.Plus.Examples\WindowsAppDriver\WindowsAppDriver\bin\Debug\netcoreapp3.1'
+2021-08-10T10:32:42.0099145+01:00:2021-08-10T10:32:42.0095627+01:00:[AssemblyCache] Trying to resolve 'System.Net.Requests.resources' to 'C:\Users\serdar.yildiz\Source\Repos\SpecFlow.Plus.Examples\WindowsAppDriver\WindowsAppDriver\bin\Debug\netcoreapp3.1\System.Net.Requests.resources.dll'
+2021-08-10T10:32:42.0108850+01:00:2021-08-10T10:32:42.0103847+01:00:[AssemblyCache] Trying to resolve 'System.Net.Requests.resources' to 'C:\Users\serdar.yildiz\Source\Repos\SpecFlow.Plus.Examples\WindowsAppDriver\WindowsAppDriver\bin\Debug\netcoreapp3.1\System.Net.Requests.resources.exe'
+2021-08-10T10:32:42.0126081+01:00:2021-08-10T10:32:42.0116993+01:00:[AssemblyCache] Could not resolve 'System.Net.Requests.resources' in folder 'C:\Users\serdar.yildiz\Source\Repos\SpecFlow.Plus.Examples\WindowsAppDriver\WindowsAppDriver\bin\Debug\netcoreapp3.1'
+2021-08-10T10:32:42.0134913+01:00:2021-08-10T10:32:42.0131263+01:00:TargetFramework: .NETCoreApp,Version=v3.1
+2021-08-10T10:32:42.0145787+01:00:2021-08-10T10:32:42.0140496+01:00:Tfm: netcoreapp3.1
+2021-08-10T10:32:42.0156733+01:00:2021-08-10T10:32:42.0152456+01:00:[AssemblyCache] Trying to resolve 'System.Net.Requests.resources' in folder 'C:\Users\serdar.yildiz\Source\Repos\SpecFlow.Plus.Examples\WindowsAppDriver\WindowsAppDriver\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1'
+2021-08-10T10:32:42.0164496+01:00:2021-08-10T10:32:42.0159494+01:00:[AssemblyCache] Trying to resolve 'System.Net.Requests.resources' to 'C:\Users\serdar.yildiz\Source\Repos\SpecFlow.Plus.Examples\WindowsAppDriver\WindowsAppDriver\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1\System.Net.Requests.resources.dll'
+2021-08-10T10:32:42.0177343+01:00:2021-08-10T10:32:42.0172763+01:00:[AssemblyCache] Trying to resolve 'System.Net.Requests.resources' to 'C:\Users\serdar.yildiz\Source\Repos\SpecFlow.Plus.Examples\WindowsAppDriver\WindowsAppDriver\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1\System.Net.Requests.resources.exe'
+2021-08-10T10:32:42.0188128+01:00:2021-08-10T10:32:42.0182791+01:00:[AssemblyCache] Could not resolve 'System.Net.Requests.resources' in folder 'C:\Users\serdar.yildiz\Source\Repos\SpecFlow.Plus.Examples\WindowsAppDriver\WindowsAppDriver\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1'
+2021-08-10T10:32:42.0207922+01:00:2021-08-10T10:32:42.0200454+01:00:[AssemblyCache] Trying to resolve 'System.Net.Requests.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.16'
+2021-08-10T10:32:42.0217660+01:00:2021-08-10T10:32:42.0212650+01:00:[AssemblyCache] Trying to resolve 'System.Net.Requests.resources' to 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.16\System.Net.Requests.resources.dll'
+2021-08-10T10:32:42.0226231+01:00:2021-08-10T10:32:42.0222521+01:00:[AssemblyCache] Trying to resolve 'System.Net.Requests.resources' to 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.16\System.Net.Requests.resources.exe'
+2021-08-10T10:32:42.0241369+01:00:2021-08-10T10:32:42.0232358+01:00:[AssemblyCache] Could not resolve 'System.Net.Requests.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.16'
+2021-08-10T10:32:42.0259119+01:00:2021-08-10T10:32:42.0252921+01:00:[AssemblyCache] Trying to resolve 'System.Net.Requests.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.16'
+2021-08-10T10:32:42.0271270+01:00:2021-08-10T10:32:42.0266800+01:00:[AssemblyCache] Trying to resolve 'System.Net.Requests.resources' to 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.16\System.Net.Requests.resources.dll'
+2021-08-10T10:32:42.0282517+01:00:2021-08-10T10:32:42.0276840+01:00:[AssemblyCache] Trying to resolve 'System.Net.Requests.resources' to 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.16\System.Net.Requests.resources.exe'
+2021-08-10T10:32:42.0293020+01:00:2021-08-10T10:32:42.0287966+01:00:[AssemblyCache] Could not resolve 'System.Net.Requests.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.16'
+2021-08-10T10:32:42.0333222+01:00:2021-08-10T10:32:42.0324479+01:00:[AssemblyCache] Trying to resolve 'System.Net.Requests.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.16'
+2021-08-10T10:32:42.0343157+01:00:2021-08-10T10:32:42.0337408+01:00:[AssemblyCache] Trying to resolve 'System.Net.Requests.resources' to 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.16\System.Net.Requests.resources.dll'
+2021-08-10T10:32:42.0351839+01:00:2021-08-10T10:32:42.0348027+01:00:[AssemblyCache] Trying to resolve 'System.Net.Requests.resources' to 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.16\System.Net.Requests.resources.exe'
+2021-08-10T10:32:42.0359783+01:00:2021-08-10T10:32:42.0355823+01:00:[AssemblyCache] Could not resolve 'System.Net.Requests.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.16'
+2021-08-10T10:32:42.0373924+01:00:2021-08-10T10:32:42.0369625+01:00:Assembly resolving System.Net.Requests.resources, Version=4.1.2.0, Culture=en, PublicKeyToken=b03f5f7f11d50a3a
+2021-08-10T10:32:42.1352630+01:00:Thread#0: Test #4/0 is finished on thread #0 as Failed within 1.3992012 seconds
+2021-08-10T10:32:42.1391334+01:00:Thread#0: Test #4/1 is started on thread #0
+2021-08-10T10:32:42.1406522+01:00:2021-08-10T10:32:42.1403139+01:00:Thread#0:B:Then Calculator title is Standard
+2021-08-10T10:32:43.5995166+01:00:2021-08-10T10:32:43.5982203+01:00:Thread#0:T:error: Expected _calculator.GetTitle() to be 
+2021-08-10T10:32:43.6005047+01:00:2021-08-10T10:32:43.6002527+01:00:Thread#0:T:"Standard" with a length of 8, but 
+2021-08-10T10:32:43.6009590+01:00:2021-08-10T10:32:43.6007314+01:00:Thread#0:T:"Scientific" has a length of 10, differs near "cie" (index 1). (1.5s)
+2021-08-10T10:32:43.6033278+01:00:Thread#0:Scheduler: get next test for thread 0
+2021-08-10T10:32:43.6033695+01:00:Thread#:Scheduler: dequeuing a rescheduled testitem: #4
+2021-08-10T10:32:43.6033769+01:00:Thread#0:Scheduler: considering testitem #4 for thread 0
+2021-08-10T10:32:43.6035066+01:00:Thread#0:TestItem#4:testItemMatchesCurrentTestThread:UnSpecific
+2021-08-10T10:32:43.6035170+01:00:Thread#0:TestItem#4:runsOnOneOtherThreadSpecific:False
+2021-08-10T10:32:43.6035216+01:00:Thread#0:TestItem#4:runsOnOneOtherThreadUnspecific:False
+2021-08-10T10:32:43.6035246+01:00:Thread#0:Scheduler: using testitem #4 for thread 0
+2021-08-10T10:32:43.6035827+01:00:Thread#0:Scheduler: Test #4 is scheduled for thread
+2021-08-10T10:32:43.6036365+01:00:Thread#0:Scheduler: with testItemExecutionIndex 2
+2021-08-10T10:32:43.6498128+01:00:Thread#0: Test #4/1 is finished on thread #0 as Failed within 1.5101763 seconds
+2021-08-10T10:32:43.6540449+01:00:Thread#0: Test #4/2 is started on thread #0
+2021-08-10T10:32:43.6587302+01:00:2021-08-10T10:32:43.6563951+01:00:Thread#0:B:Then Calculator title is Standard
+2021-08-10T10:32:44.9468766+01:00:2021-08-10T10:32:44.9458916+01:00:Thread#0:T:error: Expected _calculator.GetTitle() to be 
+2021-08-10T10:32:44.9478753+01:00:2021-08-10T10:32:44.9475137+01:00:Thread#0:T:"Standard" with a length of 8, but 
+2021-08-10T10:32:44.9485843+01:00:2021-08-10T10:32:44.9481776+01:00:Thread#0:T:"Scientific" has a length of 10, differs near "cie" (index 1). (1.3s)
+2021-08-10T10:32:44.9513405+01:00:Thread#0:Scheduler: get next test for thread 0
+2021-08-10T10:32:44.9514241+01:00:Thread#:Scheduler: at the end of normal test queue
+2021-08-10T10:32:44.9514799+01:00:Thread#0:Scheduler: enumerator for thread is at end
+2021-08-10T10:32:44.9515111+01:00:Thread#0:Scheduler: No more tests for thread
+2021-08-10T10:32:44.9841047+01:00:Thread#0: Test #4/2 is finished on thread #0 as Failed within 1.3297464 seconds
+2021-08-10T10:32:44.9949924+01:00:2021-08-10T10:32:44.9946463+01:00:Got Deinitialize Signal
+2021-08-10T10:32:44.9993667+01:00:RPC Client disconnected, because 'Disposed'. 
+LastMessage: 
+Description:Stream has been disposed
+Exception:<none>
+2021-08-10T10:32:45.0002671+01:00:RPC Server disconnected, because 'Disposed'. 
+LastMessage: 
+Description:Reached end of stream.
+Exception:<none>
+2021-08-10T10:32:45.0037886+01:00:RPC Server disconnected, because 'Disposed'. 
+LastMessage: 
+Description:Reached end of stream.
+Exception:<none>
+2021-08-10T10:32:45.0075896+01:00:Assembly resolving System.Diagnostics.Process.resources, Version=4.2.2.0, Culture=en-US, PublicKeyToken=b03f5f7f11d50a3a
+2021-08-10T10:32:45.0076413+01:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' from .deps.json file
+2021-08-10T10:32:45.0076673+01:00:[AssemblyCache] Could not resolve 'System.Diagnostics.Process.resources' from .deps.json
+2021-08-10T10:32:45.0076881+01:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' in folder 'C:\Users\serdar.yildiz\Source\Repos\SpecFlow.Plus.Examples\WindowsAppDriver\WindowsAppDriver\bin\Debug\netcoreapp3.1'
+2021-08-10T10:32:45.0076953+01:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' to 'C:\Users\serdar.yildiz\Source\Repos\SpecFlow.Plus.Examples\WindowsAppDriver\WindowsAppDriver\bin\Debug\netcoreapp3.1\System.Diagnostics.Process.resources.dll'
+2021-08-10T10:32:45.0078261+01:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' to 'C:\Users\serdar.yildiz\Source\Repos\SpecFlow.Plus.Examples\WindowsAppDriver\WindowsAppDriver\bin\Debug\netcoreapp3.1\System.Diagnostics.Process.resources.exe'
+2021-08-10T10:32:45.0079261+01:00:[AssemblyCache] Could not resolve 'System.Diagnostics.Process.resources' in folder 'C:\Users\serdar.yildiz\Source\Repos\SpecFlow.Plus.Examples\WindowsAppDriver\WindowsAppDriver\bin\Debug\netcoreapp3.1'
+2021-08-10T10:32:45.0079498+01:00:TargetFramework: .NETCoreApp,Version=v3.1
+2021-08-10T10:32:45.0080714+01:00:Tfm: netcoreapp3.1
+2021-08-10T10:32:45.0080952+01:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' in folder 'C:\Users\serdar.yildiz\Source\Repos\SpecFlow.Plus.Examples\WindowsAppDriver\WindowsAppDriver\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1'
+2021-08-10T10:32:45.0081005+01:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' to 'C:\Users\serdar.yildiz\Source\Repos\SpecFlow.Plus.Examples\WindowsAppDriver\WindowsAppDriver\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1\System.Diagnostics.Process.resources.dll'
+2021-08-10T10:32:45.0082596+01:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' to 'C:\Users\serdar.yildiz\Source\Repos\SpecFlow.Plus.Examples\WindowsAppDriver\WindowsAppDriver\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1\System.Diagnostics.Process.resources.exe'
+2021-08-10T10:32:45.0084325+01:00:[AssemblyCache] Could not resolve 'System.Diagnostics.Process.resources' in folder 'C:\Users\serdar.yildiz\Source\Repos\SpecFlow.Plus.Examples\WindowsAppDriver\WindowsAppDriver\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1'
+2021-08-10T10:32:45.0227905+01:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.16'
+2021-08-10T10:32:45.0228230+01:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' to 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.16\System.Diagnostics.Process.resources.dll'
+2021-08-10T10:32:45.0230432+01:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' to 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.16\System.Diagnostics.Process.resources.exe'
+2021-08-10T10:32:45.0231529+01:00:[AssemblyCache] Could not resolve 'System.Diagnostics.Process.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.16'
+2021-08-10T10:32:45.0250044+01:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.16'
+2021-08-10T10:32:45.0250391+01:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' to 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.16\System.Diagnostics.Process.resources.dll'
+2021-08-10T10:32:45.0252168+01:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' to 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.16\System.Diagnostics.Process.resources.exe'
+2021-08-10T10:32:45.0257603+01:00:[AssemblyCache] Could not resolve 'System.Diagnostics.Process.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.16'
+2021-08-10T10:32:45.0263445+01:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.16'
+2021-08-10T10:32:45.0263688+01:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' to 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.16\System.Diagnostics.Process.resources.dll'
+2021-08-10T10:32:45.0265060+01:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' to 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.16\System.Diagnostics.Process.resources.exe'
+2021-08-10T10:32:45.0266557+01:00:[AssemblyCache] Could not resolve 'System.Diagnostics.Process.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.16'
+2021-08-10T10:32:45.0284989+01:00:Assembly resolving System.Diagnostics.Process.resources, Version=4.2.2.0, Culture=en, PublicKeyToken=b03f5f7f11d50a3a
+2021-08-10T10:32:45.0437848+01:00:Thread#-1:Scheduler: get next test for thread -1
+2021-08-10T10:32:45.0438495+01:00:Thread#:Scheduler: at the end of normal test queue
+2021-08-10T10:32:45.0438630+01:00:Thread#-1:Scheduler: enumerator for thread is at end
+2021-08-10T10:32:45.0545344+01:00;Thread#12;Info;test run finished
+2021-08-10T10:32:45.0549790+01:00;Thread#12;Info;publishing test results
+2021-08-10T10:32:45.0556109+01:00;Thread#12;Info;Not publishing results.
+2021-08-10T10:32:45.0557426+01:00;Thread#12;Info;test results published
+2021-08-10T10:32:45.0558341+01:00;Thread#12;Info;generating reports
+2021-08-10T10:32:45.1783654+01:00;Thread#12;Info;Starting external report generation process
+2021-08-10T10:32:46.9774741+01:00;Thread#12;Info;Successfully generated reports.
+2021-08-10T10:32:46.9792225+01:00;Thread#12;Info;Successfully generated reports
+2021-08-10T10:32:46.9853884+01:00:Total: 1 (test executions: 3)
+2021-08-10T10:32:46.9869390+01:00:Succeeded: 0
+2021-08-10T10:32:46.9871856+01:00:Ignored: 0
+2021-08-10T10:32:46.9873793+01:00:Pending: 0
+2021-08-10T10:32:46.9873860+01:00:Skipped: 0
+2021-08-10T10:32:46.9875633+01:00:Failed: 1
+2021-08-10T10:32:46.9923695+01:00;VSTestExecutionThread;Info;Adding attachments to VSTest
+2021-08-10T10:32:46.9924529+01:00;VSTestExecutionThread;Info;adding Test Execution Report 'C:\Users\serdar.yildiz\Source\Repos\SpecFlow.Plus.Examples\WindowsAppDriver\TestResults\Unnamed project__2021-08-10T103239.html'
+========== End of log file ==========
